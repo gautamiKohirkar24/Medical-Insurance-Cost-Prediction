@@ -1,5 +1,4 @@
 # Medical-Insurance-Cost-Prediction
-# Medical Cost Price Prediction
 
 This project focuses on predicting medical insurance costs using patient data such as age, gender, BMI, number of children, smoking status, and region. The goal is to build a regression model to estimate insurance charges and analyze the impact of various factors on the cost.
 
